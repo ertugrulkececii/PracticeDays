@@ -1,3 +1,5 @@
+package practice_day03;
+
 import java.util.Locale;
 import java.util.Scanner;
 
